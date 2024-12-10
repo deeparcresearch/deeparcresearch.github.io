@@ -12,13 +12,21 @@
             padding: 0;
         }
         header {
-            background-color: #003366;
+            background-color: #5c9bd5; /* Lighter blue */
             color: white;
             padding: 20px 0;
             text-align: center;
+            position: relative;
+        }
+        header img {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            width: 60px;
+            height: 60px;
         }
         footer {
-            background-color: #003366;
+            background-color: #5c9bd5; /* Lighter blue */
             color: white;
             text-align: center;
             padding: 10px 0;
@@ -33,25 +41,46 @@
             border-radius: 50%;
             object-fit: cover;
         }
+        .funding {
+            font-size: 0.9em;
+            color: gray;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <header>
+        <img src="logo.png" alt="DeepARC Logo">
         <h1>DeepARC Research Group</h1>
         <p>Yachay Tech University</p>
     </header>
     <div class="container">
+        <div class="funding">
+            <p>This research group is partially funded by the Universidad Internacional del Ecuador (UIDE).</p>
+        </div>
         <section id="publications">
             <h2>Publications</h2>
-            <p>Explore our latest research articles. Click on the titles to access the publications, and visit the code links for implementation details.</p>
+            <p>Explore our latest research articles and conference presentations.</p>
+            <h3>Journals</h3>
             <ul>
                 <li>
-                    <h4><a href="https://doi.org/example1" target="_blank">Title of Publication 1</a></h4>
+                    <h4><a href="https://doi.org/example1" target="_blank">Title of Journal Publication 1</a></h4>
                     <p>Description of the publication. <a href="https://github.com/DeepARC/CodeExample1" target="_blank">Code Repository</a></p>
                 </li>
                 <li>
-                    <h4><a href="https://doi.org/example2" target="_blank">Title of Publication 2</a></h4>
+                    <h4><a href="https://doi.org/example2" target="_blank">Title of Journal Publication 2</a></h4>
                     <p>Description of the publication. <a href="https://github.com/DeepARC/CodeExample2" target="_blank">Code Repository</a></p>
+                </li>
+            </ul>
+            <h3>Conferences</h3>
+            <ul>
+                <li>
+                    <h4><a href="https://doi.org/conference1" target="_blank">Title of Conference Presentation 1</a></h4>
+                    <p>Description of the conference. <a href="slides/conference1-slides.pdf" target="_blank">Download Slides</a></p>
+                </li>
+                <li>
+                    <h4><a href="https://doi.org/conference2" target="_blank">Title of Conference Presentation 2</a></h4>
+                    <p>Description of the conference. <a href="slides/conference2-slides.pdf" target="_blank">Download Slides</a></p>
                 </li>
             </ul>
         </section>
