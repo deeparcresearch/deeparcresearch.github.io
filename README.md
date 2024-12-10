@@ -8,10 +8,11 @@ This research group is partially funded by Yachay Tech University and Universida
 
 Explore our latest research articles:
 
-Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753
+- Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753  
+[Code Repository](https://github.com/DeepARC/CodeExample1)
 
 - **[Title of Publication 1](https://doi.org/example1)**  
-  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample1)
+  Description of the publication. 
 
 - **[Title of Publication 2](https://doi.org/example2)**  
   Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample2)
