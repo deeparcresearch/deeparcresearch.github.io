@@ -23,8 +23,8 @@ Meet the researchers behind DeepARC:
 
 ### Eugenio Morocho
 **Coordinator of DeepARC Research Group**  
-![Eugenio Morocho](member1.jpg)  
-Eugenio leads the DeepARC team with a focus on wireless networks and the integration of artificial intelligence in engineering processes.
+![Eugenio Morocho](eugenio.jpg)  
+Eugenio specializes in the integration of artificial intelligence in engineering processes.
 
 ### Member 2
 **AI and Wireless Networks Researcher**  
