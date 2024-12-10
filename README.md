@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="DeepARC Logo" width="300">
+  <img src="images/logo.png" alt="DeepARC Logo" width="300">
 </p>
 
 This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
@@ -26,7 +26,7 @@ Meet the researchers behind DeepARC:
 
 ### Eugenio Morocho
 **Director of DeepARC Research Group**  
-<img src="eugenio.jpg" alt="Eugenio" width="150">  
+<img src="images/eugenio.jpg" alt="Eugenio" width="150">  
 Eugenio specializes in the integration of artificial intelligence in engineering processes.
 
 ### Member 2
