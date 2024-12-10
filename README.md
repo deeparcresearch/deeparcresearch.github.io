@@ -1,8 +1,6 @@
 <p align="center">
   <img src="images/logo.png" alt="DeepARC Logo" width="300">
 </p>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
 
