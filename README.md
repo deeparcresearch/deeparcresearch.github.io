@@ -2,64 +2,64 @@
 
 ![DeepARC Logo](logo.png)
 
-Este grupo de investigación cuenta con el apoyo parcial de la Universidad Yachay Tech y la Universidad Internacional del Ecuador (UIDE).
+This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
 
-## Publicaciones
+## Publications
 
-Explora nuestros artículos de investigación más recientes:
+Explore our latest research articles:
 
-- **[Título de la Publicación 1](https://doi.org/example1)**  
-  Descripción de la publicación. [Repositorio de Código](https://github.com/DeepARC/CodeExample1)
+- **[Title of Publication 1](https://doi.org/example1)**  
+  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample1)
 
-- **[Título de la Publicación 2](https://doi.org/example2)**  
-  Descripción de la publicación. [Repositorio de Código](https://github.com/DeepARC/CodeExample2)
+- **[Title of Publication 2](https://doi.org/example2)**  
+  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample2)
 
-- **[Título de la Publicación 3](https://doi.org/example3)**  
-  Descripción de la publicación. [Repositorio de Código](https://github.com/DeepARC/CodeExample3)
+- **[Title of Publication 3](https://doi.org/example3)**  
+  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample3)
 
-## Miembros del Equipo
+## Team Members
 
-Conoce a los investigadores detrás de DeepARC:
+Meet the researchers behind DeepARC:
 
 ### Eugenio Morocho
-**Coordinador del Grupo de Investigación DeepARC**  
+**Coordinator of DeepARC Research Group**  
 ![Eugenio Morocho](member1.jpg)  
-Eugenio lidera el equipo de DeepARC, con un enfoque en redes inalámbricas y la integración de inteligencia artificial en procesos de ingeniería.
+Eugenio leads the DeepARC team with a focus on wireless networks and the integration of artificial intelligence in engineering processes.
 
-### Miembro 2
-**Investigador en IA y Redes Inalámbricas**  
-![Miembro 2](member2.jpg)  
-Este miembro del equipo tiene experiencia en el desarrollo de soluciones de inteligencia artificial para redes de comunicación.
+### Member 2
+**AI and Wireless Networks Researcher**  
+![Member 2](member2.jpg)  
+This team member specializes in the development of AI solutions for communication networks.
 
-### Miembro 3
-**Especialista en Visión por Computadora**  
-![Miembro 3](member3.jpg)  
-Con un fuerte enfoque en el análisis de imágenes y el desarrollo de modelos para reconocimiento de objetos y patrones.
+### Member 3
+**Computer Vision Specialist**  
+![Member 3](member3.jpg)  
+Focused on image analysis and the development of models for object recognition and pattern detection.
 
-### Miembro 4
-**Experto en Análisis de Datos**  
-![Miembro 4](member4.jpg)  
-Se especializa en la manipulación de grandes volúmenes de datos y la extracción de conocimiento mediante técnicas de aprendizaje automático.
+### Member 4
+**Data Analysis Expert**  
+![Member 4](member4.jpg)  
+Specializes in handling large datasets and extracting insights through machine learning techniques.
 
-### Miembro 5
-**Especialista en Robótica**  
-![Miembro 5](member5.jpg)  
-Trabaja en el diseño y optimización de sistemas robóticos inteligentes, con aplicaciones en la automatización de procesos industriales.
+### Member 5
+**Robotics Specialist**  
+![Member 5](member5.jpg)  
+Works on designing and optimizing intelligent robotic systems, with applications in industrial process automation.
 
-### Miembro 6
-**Ingeniero en Aprendizaje Automático**  
-![Miembro 6](member6.jpg)  
-Este miembro tiene experiencia en la creación de modelos predictivos y en la implementación de algoritmos de aprendizaje profundo.
+### Member 6
+**Machine Learning Engineer**  
+![Member 6](member6.jpg)  
+This team member has expertise in creating predictive models and implementing deep learning algorithms.
 
-### Miembro 7
-**Experto en Procesamiento de Lenguaje Natural**  
-![Miembro 7](member7.jpg)  
-Su trabajo se centra en el desarrollo de aplicaciones de IA que entienden y generan lenguaje humano, mejorando la interacción con los sistemas.
+### Member 7
+**Natural Language Processing Expert**  
+![Member 7](member7.jpg)  
+Focused on developing AI applications that understand and generate human language, improving system interactions.
 
-### Miembro 8
-**Especialista en Computación en la Nube**  
-![Miembro 8](member8.jpg)  
-Con experiencia en la infraestructura de la nube, este miembro contribuye al desarrollo de soluciones escalables para el procesamiento de grandes datos.
+### Member 8
+**Cloud Computing Specialist**  
+![Member 8](member8.jpg)  
+With expertise in cloud infrastructure, this member contributes to the development of scalable solutions for large-scale data processing.
 
 ---
 
