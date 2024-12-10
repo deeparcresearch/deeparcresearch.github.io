@@ -1,6 +1,6 @@
-# DeepARC Research Group
-
 ![DeepARC Logo](logo.png)
+
+<img src="logo.png" alt="DeepARC Logo" width="150">
 
 This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
 
