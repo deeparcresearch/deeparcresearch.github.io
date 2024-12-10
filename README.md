@@ -11,8 +11,14 @@ Explore our latest research articles:
 - Cabezas, D., Fonseca-Delgado, R., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Integrating a LLaMa-based Chatbot with Augmented Retrieval Generation as a Complementary Educational Tool for High School and College Students. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 395–402). INSTICC. https://doi.org/10.5220/0012763000003753  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC](https://github.com/Zethearc/LLAMA_2-EDUAI))
 
+- DeLaCruz-Paucar, F., Macancela-Bojorque, C., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Towards Accurate Cervical Cancer Detection: Leveraging Two-Stage CNNs for Pap Smear Analysis. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 219–227). INSTICC. https://doi.org/10.5220/0012735800003753
+
 - Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)))
+
+- Loor, J., Jiménez, A., Moromenacho-Aguirre, J., Rodríguez, G., Reyes, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Artificial Intelligence-Based Detection and Prediction of Giant African Snail (Lissachatina Fulica) Infestation in the Galápagos Islands. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 403–410). INSTICC. https://doi.org/10.5220/0012763200003753
+
+- 
 
 - **[Title of Publication 1](https://doi.org/example1)**  
   Description of the publication. 
