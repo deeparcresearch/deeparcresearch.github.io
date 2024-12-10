@@ -13,11 +13,8 @@ Explore our latest research articles:
 - Cabezas, D., Fonseca-Delgado, R., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Integrating a LLaMa-based Chatbot with Augmented Retrieval Generation as a Complementary Educational Tool for High School and College Students. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 395–402). INSTICC. https://doi.org/10.5220/0012763000003753  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC](https://github.com/Zethearc/LLAMA_2-EDUAI))
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
-
 - Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753  
-[Code Repository](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)
+[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)))
 
 - **[Title of Publication 1](https://doi.org/example1)**  
   Description of the publication. 
