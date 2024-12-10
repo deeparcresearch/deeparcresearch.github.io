@@ -9,7 +9,7 @@ This research group is partially funded by Yachay Tech University and Universida
 Explore our latest research articles:
 
 - Cabezas, D., Fonseca-Delgado, R., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Integrating a LLaMa-based Chatbot with Augmented Retrieval Generation as a Complementary Educational Tool for High School and College Students. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 395–402). INSTICC. https://doi.org/10.5220/0012763000003753  
-[Code Repository](https://github.com/)
+[Code Repository](https://github.com/Zethearc/LLAMA_2-EDUAI)
 
 - Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753  
 [Code Repository](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)
