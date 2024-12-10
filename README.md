@@ -12,7 +12,7 @@ Explore our latest research articles:
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC](https://github.com/Zethearc/LLAMA_2-EDUAI))
 
 - DeLaCruz-Paucar, F., Macancela-Bojorque, C., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Towards Accurate Cervical Cancer Detection: Leveraging Two-Stage CNNs for Pap Smear Analysis. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 219–227). INSTICC. https://doi.org/10.5220/0012735800003753  
-[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/CarlosJMB/Analysis-of-Cytology-Pap-Smear-Images-Using-Two-Stage-CNNS-))
+[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/CarlosJMB/Analysis-of-Cytology-Pap-Smear-Images-Using-Two-Stage-CNNS-)))
 
 
 - Figueroa, S., Pineda, I., Vizcaíno, P., Reyes-Chacón, I., & Morocho-Cayamcela, M. E. (2024). A Webcam Artificial Intelligence-Based Gaze-Tracking Algorithm. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 228–235). INSTICC. https://doi.org/10.5220/0012759700003753  
