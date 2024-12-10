@@ -2,6 +2,10 @@
 
 <img src="logo.png" alt="DeepARC Logo" width="150">
 
+<p align="center">
+  <img src="logo.png" alt="DeepARC Logo" width="150">
+</p>
+
 This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
 
 ## Publications
