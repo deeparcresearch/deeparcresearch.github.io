@@ -23,7 +23,7 @@ Meet the researchers behind DeepARC:
 
 ### Eugenio Morocho
 **Director of DeepARC Research Group**  
-<img src="eugenio.png" alt="DeepARC Logo" width="150">
+<img src="eugenio.jpg" alt="Eugenio" width="150">
 Eugenio specializes in the integration of artificial intelligence in engineering processes.
 
 ### Member 2
