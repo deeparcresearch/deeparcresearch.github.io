@@ -76,9 +76,5 @@ With expertise in cloud infrastructure, this member contributes to the developme
 
 &copy; 2024 DeepARC Research Group
 
-<!-- GitHub Button Script -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-<!-- GitHub Button Link -->
-<a class="github-button" href="https://github.com/DeepARC" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow DeepARC on GitHub">Follow DeepARC</a>
+[![Follow DeepARC on GitHub](https://img.shields.io/badge/Follow-DeepARC-blue?style=for-the-badge&logo=github)](https://github.com/DeepARC)
 
