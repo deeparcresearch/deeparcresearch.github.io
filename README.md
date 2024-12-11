@@ -76,3 +76,44 @@ With expertise in cloud infrastructure, this member contributes to the developme
 ---
 
 &copy; 2024 DeepARC Research Group
+
+
+
+
+
+
+<h2>Team Members</h2>
+<p>Meet the researchers behind DeepARC:</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center; width: 200px; flex-grow: 1; flex-basis: calc(25% - 20px);">
+    <img src="images/eugenio.jpg" alt="Eugenio" style="width: 100%; max-width: 150px; border-radius: 50%;">
+    <h3>Eugenio Morocho</h3>
+    <p>Director of DeepARC Research Group</p>
+    <a href="https://scholar.google.com/citations?user=eugenio_profile" target="_blank">Google Scholar</a>
+  </div>
+
+  <div style="text-align: center; width: 200px; flex-grow: 1; flex-basis: calc(25% - 20px);">
+    <img src="images/member2.jpg" alt="Member 2" style="width: 100%; max-width: 150px; border-radius: 50%;">
+    <h3>Member 2</h3>
+    <p>AI and Wireless Networks Researcher</p>
+    <a href="https://scholar.google.com/citations?user=member2_profile" target="_blank">Google Scholar</a>
+  </div>
+
+  <div style="text-align: center; width: 200px; flex-grow: 1; flex-basis: calc(25% - 20px);">
+    <img src="images/member3.jpg" alt="Member 3" style="width: 100%; max-width: 150px; border-radius: 50%;">
+    <h3>Member 3</h3>
+    <p>Computer Vision Specialist</p>
+    <a href="https://scholar.google.com/citations?user=member3_profile" target="_blank">Google Scholar</a>
+  </div>
+
+  <div style="text-align: center; width: 200px; flex-grow: 1; flex-basis: calc(25% - 20px);">
+    <img src="images/member4.jpg" alt="Member 4" style="width: 100%; max-width: 150px; border-radius: 50%;">
+    <h3>Member 4</h3>
+    <p>Data Analysis Expert</p>
+    <a href="https://scholar.google.com/citations?user=member4_profile" target="_blank">Google Scholar</a>
+  </div>
+
+  <!-- Add more members as needed, following the same structure -->
+</div>
+
