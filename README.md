@@ -33,11 +33,9 @@ Explore our latest research articles:
 
 Meet the researchers behind DeepARC:
 
-### Eugenio Morocho
+### [Eugenio Morocho](https://scholar.google.com/citations?user=X2hF1ooAAAAJ&hl=en)
 **Director of DeepARC Research Group**  
-<img src="images/eugenio.jpg" alt="Eugenio" width="150">  
-Eugenio specializes in the integration of artificial intelligence in engineering processes.
-
+<img src="images/eugenio.jpg" alt="Eugenio" width="150">
 ### Member 2
 **AI and Wireless Networks Researcher**  
 ![Member 2](member2.jpg)  
@@ -76,74 +74,3 @@ With expertise in cloud infrastructure, this member contributes to the developme
 ---
 
 &copy; 2024 DeepARC Research Group
-
-
-
-
-
-
-<p align="center">
-  <img src="images/logo.png" alt="DeepARC Logo" width="300">
-</p>
-
-This research group is partially funded by Yachay Tech University and Universidad Internacional del Ecuador (UIDE).
-
-## Team Members
-
-Meet the researchers behind DeepARC:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center; width: 150px;">
-    <img src="images/eugenio.jpg" alt="Eugenio" width="150" style="border-radius: 50%;">
-    <p><strong>Eugenio Morocho</strong><br>Director of DeepARC Research Group</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-  
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member2.jpg" alt="Member 2" width="150" style="border-radius: 50%;">
-    <p><strong>Member 2</strong><br>AI and Wireless Networks Researcher</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member3.jpg" alt="Member 3" width="150" style="border-radius: 50%;">
-    <p><strong>Member 3</strong><br>Computer Vision Specialist</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member4.jpg" alt="Member 4" width="150" style="border-radius: 50%;">
-    <p><strong>Member 4</strong><br>Data Analysis Expert</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member5.jpg" alt="Member 5" width="150" style="border-radius: 50%;">
-    <p><strong>Member 5</strong><br>Robotics Specialist</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member6.jpg" alt="Member 6" width="150" style="border-radius: 50%;">
-    <p><strong>Member 6</strong><br>Machine Learning Engineer</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member7.jpg" alt="Member 7" width="150" style="border-radius: 50%;">
-    <p><strong>Member 7</strong><br>Natural Language Processing Expert</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-
-  <div style="text-align: center; width: 150px;">
-    <img src="images/member8.jpg" alt="Member 8" width="150" style="border-radius: 50%;">
-    <p><strong>Member 8</strong><br>Cloud Computing Specialist</p>
-    <a href="https://scholar.google.com">Google Scholar</a>
-  </div>
-</div>
-
----
-
-&copy; 2024 DeepARC Research Group
-
-
