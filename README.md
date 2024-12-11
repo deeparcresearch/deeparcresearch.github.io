@@ -87,7 +87,7 @@ With expertise in cloud infrastructure, this member contributes to the developme
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 200px; flex-grow: 1; flex-basis: calc(25% - 20px);">
-    <img src="images/eugenio.jpg" alt="Eugenio" style="width: 100%; max-width: 150px; border-radius: 50%;">
+    <img src="images/eugenio.jpg" alt="Eugenio"; max-width: 150px; border-radius: 50%;">
     <h3>Eugenio Morocho</h3>
     <p>Director of DeepARC Research Group</p>
     <a href="https://scholar.google.com/citations?user=eugenio_profile" target="_blank">Google Scholar</a>
