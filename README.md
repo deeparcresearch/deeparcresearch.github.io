@@ -21,20 +21,14 @@ Explore our latest research articles:
 
 - Loor, J., Jiménez, A., Sánchez, D., Astudillo León, J. P., Morocho-Cayamcela, M. E., Lemus Cárdenas, L., Vizcaino, P., & Reyes, I. (2024). Evaluation of 5G Vehicle-to-Everything (V2X) Communications in Urban Scenarios. In D. Rivas Lalaleo & S. L. Sinche Maita (Eds.), 2024 IEEE Eighth Ecuador Technical Chapters Meeting (ETCM) (pp. 1–6). IEEE. https://doi.org/10.1109/ETCM63562.2024.10746041
 
-- Coello-Andrade, M. D., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Image Classification of Peach Leaves Using a Siamese Neural Network. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 3–20). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_1
+- Coello-Andrade, M. D., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Image Classification of Peach Leaves Using a Siamese Neural Network. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 3–20). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_1  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI]([https://github.com/SaulFigue/Gaze-tracking-pipeline.git](https://github.com/Mateo-Coello/Siamese-Convolutional-Neural-Network))))  
 
-- Tualombo, M. E., Reyes, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Pancreas Segmentation Using SRGAN Combined with U-Net Neural Network. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 21–38). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_2
+- Tualombo, M. E., Reyes, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Pancreas Segmentation Using SRGAN Combined with U-Net Neural Network. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 21–38). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_2  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)))  
 
-- Jiménez Narváez, A. D., Sánchez Vera, D. L., Reyes, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Adaptation Dynamics of Galápagos Finches: Evolutionary Responses to Climate Variation Explored through Machine Learning. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 223–237). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_15
-[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)))  
-
-- **[Title of Publication 2](https://doi.org/example2)**  
-  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample2)
-
-- **[Title of Publication 3](https://doi.org/example3)**  
-  Description of the publication. [Code Repository](https://github.com/DeepARC/CodeExample3)
+- Jiménez Narváez, A. D., Sánchez Vera, D. L., Reyes, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Adaptation Dynamics of Galápagos Finches: Evolutionary Responses to Climate Variation Explored through Machine Learning. In S. Berrezueta-Guzman, R. Torres, J. L. Zambrano-Martinez, & J. Herrera-Tapia (Eds.), Communications in Computer and Information Science: Vol. 2273 CCIS (pp. 223–237). Springer, Cham. https://doi.org/10.1007/978-3-031-75431-9_15  
+[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/SaulFigue/Gaze-tracking-pipeline.git)))
 
 ## Team Members
 
