@@ -42,6 +42,36 @@ Meet the researchers behind DeepARC:
 #### [Iván Reyes](https://www.researchgate.net/profile/Ivan-Reyes-Chacon)
 <img src="images/ivan.jpg" alt="Eugenio" width="150"> 
 
+## Team Members
+
+Meet the researchers behind DeepARC:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://scholar.google.com/citations?user=X2hF1ooAAAAJ&hl=en">
+          <img src="images/eugenio.jpg" alt="Eugenio" width="150"><br>
+          <b>Eugenio Morocho</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://scholar.google.com/citations?user=Cs_JSz0AAAAJ&hl=en">
+          <img src="images/paulina.jpg" alt="Paulina" width="150"><br>
+          <b>Paulina Vizcaíno</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.researchgate.net/profile/Ivan-Reyes-Chacon">
+          <img src="images/ivan.jpg" alt="Iván" width="150"><br>
+          <b>Iván Reyes</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 &copy; 2024 DeepARC Research Group
