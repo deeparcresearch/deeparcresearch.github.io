@@ -9,7 +9,9 @@ This research group is partially funded by Yachay Tech University and Universida
 Explore our latest research articles:
 
 - Cabezas, D., Fonseca-Delgado, R., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Integrating a LLaMa-based Chatbot with Augmented Retrieval Generation as a Complementary Educational Tool for High School and College Students. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 395–402). INSTICC. https://doi.org/10.5220/0012763000003753  
-[![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC](https://github.com/Zethearc/LLAMA_2-EDUAI))
+[![GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Zethearc/LLAMA_2-EDUAI)   
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/Zethearc/LLAMA_2-EDUAI)
+
 
 - DeLaCruz-Paucar, F., Macancela-Bojorque, C., Reyes-Chacón, I., Vizcaino-Imacaña, P., & Morocho-Cayamcela, M. E. (2024). Towards Accurate Cervical Cancer Detection: Leveraging Two-Stage CNNs for Pap Smear Analysis. In H.-G. Fill, F. J. Domínguez Mayo, M. van Sinderen, & M. Leszek (Eds.), Proceedings of the 19th International Conference on Software Technologies (pp. 219–227). INSTICC. https://doi.org/10.5220/0012735800003753  
 [![Code Repository](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/DeepARC]([https://github.com/Zethearc/LLAMA_2-EDUAI](https://github.com/CarlosJMB/Analysis-of-Cytology-Pap-Smear-Images-Using-Two-Stage-CNNS-)))
