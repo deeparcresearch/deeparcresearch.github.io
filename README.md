@@ -36,40 +36,11 @@ Meet the researchers behind DeepARC:
 #### [Eugenio Morocho](https://scholar.google.com/citations?user=X2hF1ooAAAAJ&hl=en)
 <img src="images/eugenio.jpg" alt="Eugenio" width="150">  
 
-#### Member 2
-**AI and Wireless Networks Researcher**  
-![Member 2](member2.jpg)  
-This team member specializes in the development of AI solutions for communication networks.
+#### [Paulina Vizcaíno](https://scholar.google.com/citations?user=Cs_JSz0AAAAJ&hl=en)
+<img src="images/paulina.jpg" alt="Eugenio" width="150"> 
 
-### Member 3
-**Computer Vision Specialist**  
-![Member 3](member3.jpg)  
-Focused on image analysis and the development of models for object recognition and pattern detection.
-
-### Member 4
-**Data Analysis Expert**  
-![Member 4](member4.jpg)  
-Specializes in handling large datasets and extracting insights through machine learning techniques.
-
-### Member 5
-**Robotics Specialist**  
-![Member 5](member5.jpg)  
-Works on designing and optimizing intelligent robotic systems, with applications in industrial process automation.
-
-### Member 6
-**Machine Learning Engineer**  
-![Member 6](member6.jpg)  
-This team member has expertise in creating predictive models and implementing deep learning algorithms.
-
-### Member 7
-**Natural Language Processing Expert**  
-![Member 7](member7.jpg)  
-Focused on developing AI applications that understand and generate human language, improving system interactions.
-
-### Member 8
-**Cloud Computing Specialist**  
-![Member 8](member8.jpg)  
-With expertise in cloud infrastructure, this member contributes to the development of scalable solutions for large-scale data processing.
+#### [Iván Reyes](https://www.researchgate.net/profile/Ivan-Reyes-Chacon)
+<img src="images/ivan.jpg" alt="Eugenio" width="150"> 
 
 ---
 
