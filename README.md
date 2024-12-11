@@ -33,10 +33,10 @@ Explore our latest research articles:
 
 Meet the researchers behind DeepARC:
 
-### [Eugenio Morocho](https://scholar.google.com/citations?user=X2hF1ooAAAAJ&hl=en)
-**Director of DeepARC Research Group**  
-<img src="images/eugenio.jpg" alt="Eugenio" width="150">
-### Member 2
+#### [Eugenio Morocho](https://scholar.google.com/citations?user=X2hF1ooAAAAJ&hl=en)
+<img src="images/eugenio.jpg" alt="Eugenio" width="150">  
+
+#### Member 2
 **AI and Wireless Networks Researcher**  
 ![Member 2](member2.jpg)  
 This team member specializes in the development of AI solutions for communication networks.
